@@ -1,0 +1,3 @@
+- В папке FigureAreaCalculator находится библиотека вычисления площади
+- В папке FigureAreaCalculator.Tests unit-тесты для библиотеки
+- В файле ProductCatPairsRequest.sql запрос к заданию 2
